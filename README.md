@@ -1,7 +1,10 @@
-# Fresh project
+# buy me a crypto client
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+Demo & intro website of [buy-me-a-crypto](https://github.com/aiinkiestism/buy-me-a-crypto).<br />
+
+You can refer to this code as a reference of the usage of [buy-me-a-crypto](https://github.com/aiinkiestism/buy-me-a-crypto).<br />
+
+buy me a crypto client is dependent on [deno](https://deno.land) and [fresh](https://fresh.deno.dev/), but [buy-me-a-crypto](https://github.com/aiinkiestism/buy-me-a-crypto) can be used in any develop environment.
 
 ### Usage
 
