@@ -13,7 +13,9 @@ export function Header({ active }: Props) {
       <div class="flex items-center flex-1">
         {/* logo */}
         <div class="text-2xl  ml-1 font-bold text-white">
-          buy me a crypto
+          <a href="/" class="hover:text-blue-400 hover:font-bold">
+            buy me a crypto
+          </a>
         </div>
       </div>
       <ul class="flex items-center gap-6">
@@ -25,7 +27,7 @@ export function Header({ active }: Props) {
                 href={menu.href}
                 target="_blank"
                 rel="noopener"
-                class={"text-white hover:text-blue-400 hover:font-bold hover:text-xl py-1 border-gray-500" +
+                class={"text-white hover:text-blue-400 hover:font-bold py-1 border-gray-500" +
                   (menu.href === active ? " font-bold border-b-2" : "")}
               >
                 {menu.name}
@@ -33,7 +35,7 @@ export function Header({ active }: Props) {
             ) : (
               <a
                 href={menu.href}
-                class={"text-white hover:text-blue-400 hover:font-bold hover:text-xl py-1 border-gray-500" +
+                class={"text-white hover:text-blue-400 hover:font-bold py-1 border-gray-500" +
                   (menu.href === active ? " font-bold border-b-2" : "")}
               >
                 {menu.name}

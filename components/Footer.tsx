@@ -1,6 +1,6 @@
 import { JSX } from "preact";
 
-export function Footer(props: JSX.HTMLAttributes<HTMLButtonElement>) {
+export function Footer() {
   return (
     <footer className="absolute bottom-6 w-full text-center">
       <a
