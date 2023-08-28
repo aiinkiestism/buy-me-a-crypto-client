@@ -8,7 +8,7 @@ export function Footer(props: JSX.HTMLAttributes<HTMLButtonElement>) {
         target="_blank"
         rel="noopener"
       >
-        <p className="text-white">© Hashmimic</p>
+        <p className="text-white hover:text-blue-400 hover:font-bold hover:text-emerald-100">© Hashmimic</p>
       </a>
     </footer>
   );

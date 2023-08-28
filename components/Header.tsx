@@ -1,5 +1,3 @@
-import { JSX } from "preact";
-
 type Props = {
   active: string;
 };
