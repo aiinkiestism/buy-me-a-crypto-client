@@ -1,10 +1,10 @@
 # buy me a crypto client
 
-Demo & intro website of [buy-me-a-crypto](https://github.com/aiinkiestism/buy-me-a-crypto).<br />
+Demo & intro website of [buy me a crypto](https://github.com/aiinkiestism/buy-me-a-crypto).<br />
 
-You can refer to this code as a reference of the usage of [buy-me-a-crypto](https://github.com/aiinkiestism/buy-me-a-crypto).<br />
+You can refer to this code as a reference of the usage of [buy me a crypto](https://github.com/aiinkiestism/buy-me-a-crypto).<br />
 
-buy me a crypto client is dependent on [deno](https://deno.land) and [fresh](https://fresh.deno.dev/), but [buy-me-a-crypto](https://github.com/aiinkiestism/buy-me-a-crypto) can be used in any develop environment.
+buy me a crypto client is dependent on [deno](https://deno.land) and [fresh](https://fresh.deno.dev/), but [buy me a crypto](https://github.com/aiinkiestism/buy-me-a-crypto) can be used in any develop environment.
 
 ### Usage
 
