@@ -1,4 +1,4 @@
-# ![bagle logo](https://github.com/aiinkiestism/buy-me-a-crypto-client/blob/main/static/favicon-96x96.png) buy me a crypto client
+# ![bagle logo](https://github.com/aiinkiestism/buy-me-a-crypto-client/blob/main/static/favicon-32x32.png) buy me a crypto client
 
 Demo & intro website of [buy me a crypto](https://github.com/aiinkiestism/buy-me-a-crypto).<br />
 
