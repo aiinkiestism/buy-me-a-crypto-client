@@ -5,7 +5,7 @@ type Props = {
 export function Header({ active }: Props) {
   const menus = [
     { name: "Docs", href: "/docs", external: false },
-    { name: "Twitter", href: "https://twitter.com/0xbuymeacrypto", external: true },
+    { name: "X(Twitter)", href: "https://twitter.com/0xbuymeacrypto", external: true },
     { name: "Github", href: "https://github.com/aiinkiestism/buy-me-a-crypto", external: true },
   ];
 
