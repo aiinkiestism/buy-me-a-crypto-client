@@ -8,7 +8,7 @@ export default defineApp(async (req, ctx) => {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="buy me a crypto is a counterpart of buy me a coffee for crypto." />
-        <title>buy-me-a-crypto-client</title>
+        <title>buy me a crypto</title>
         <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
         <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png" />
         <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png" />
