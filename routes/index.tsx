@@ -1,8 +1,19 @@
+// import { VANTA } from 'npm:vanta@0.5.24';
 import { Header, Footer, Button } from '../components/index.ts';
 
-export default function Home() {
+// deno-lint-ignore require-await
+export default async function Home() {
+  // await VANTA.HALO({
+  //   el: ".bg",
+  //   mouseControls: true,
+  //   touchControls: true,
+  //   gyroControls: false,
+  //   minHeight: 200.00,
+  //   minWidth: 200.00
+  // });
+
   return (
-    <div className="bg-[#1E293B] w-full h-screen relative">
+    <div className="w-full h-screen relative bg bg-gradient-to-r from-pink-400 to-purple-400">
       <Header />
       <p className="text-white font-semibold text-xl text-center mt-20 leading-8">
         buy me a crypto is a counterpart of buy me a coffee for crypto.<br />
