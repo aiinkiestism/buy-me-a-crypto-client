@@ -28,6 +28,7 @@ export default defineApp(async (req, ctx) => {
         <meta name="theme-color" content="#ffffff" />
         <meta name="format-detection" content="email=no,telephone=no,address=no" />
       </head>
+      <script src="three.r134.min.js"></script>
       <body>
         <ctx.Component />
       </body>
