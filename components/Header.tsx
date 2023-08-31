@@ -11,9 +11,9 @@ export function Header({ active }: Props) {
   return (
     <div class="w-full py-6 px-8 flex flex-col md:flex-row gap-4">
       <div class="flex items-center flex-1">
-        {/* logo */}
         <div class="text-2xl  ml-1 font-bold text-white">
           <a href="/" class="hover:text-blue-400 hover:font-bold">
+            <img src="/bagle-nobg.png" alt="buy me a crypto logo" />
             buy me a crypto
           </a>
         </div>
